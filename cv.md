@@ -15,22 +15,14 @@ I'm a person who have a strong desire to learn new and upgrade my skills. Also i
 - VS Code.
 - Git, GitHub
 ## Code Examples:
-function lovefunc(flower1,flower2){
-  
-				if (flower1%2==0&&flower2%2!==0) {
-
-
-					return true;
-
-				}else if(flower1%2!==0&&flower2%2==0){
-
-
-
-					return true;
-				}else return false;
-
-			}
+function multiply(a, b){
+ const c =  a * b;
+  return c;
+}
+## Expirience:
+The Rolling Scopes (Stage#0). 
 ## Education
 The Rolling Scopes (in process…). 
 ## Languages
-- Russia: native speaker.
+- English: A1.
+
